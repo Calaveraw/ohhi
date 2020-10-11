@@ -10,7 +10,7 @@ struct node
     struct node *right;
 };
 
-struct node *root; /* root of the tree */
+struct node *root; /* root of the gittree */
 struct node *current; /* stored node upon traversal */
 char input[] = { "ALGORITHMS2" };
 
